@@ -1,0 +1,15 @@
+test_anger (test_emotion_detection.TestEmotionDetector)
+Anger statement. ... ok
+test_disgust (test_emotion_detection.TestEmotionDetector)
+Disgust statement. ... ok
+test_fear (test_emotion_detection.TestEmotionDetector)
+Fear statement. ... ok
+test_joy (test_emotion_detection.TestEmotionDetector)
+Joy statement. ... ok
+test_sadness (test_emotion_detection.TestEmotionDetector)
+Sadness statement. ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.564s
+
+OK
