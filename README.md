@@ -1,4 +1,6 @@
-# Emotion Detection
+# Final Project
+
+Emotion Detection
 
 A Flask web application that analyzes text and detects emotions using the IBM Watson NLP Emotion Detection service. It returns scores for anger, disgust, fear, joy and sadness, and names the dominant emotion.
 
